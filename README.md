@@ -1,0 +1,1 @@
+# Hibernate_CustomGenerator_Custom_StringType_Id_Generation
