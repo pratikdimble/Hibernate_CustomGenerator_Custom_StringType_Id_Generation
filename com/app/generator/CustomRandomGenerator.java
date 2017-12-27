@@ -1,4 +1,4 @@
-package com.nt.generator;
+package com.app.generator;
 
 import java.io.Serializable;
 import java.sql.Connection;
