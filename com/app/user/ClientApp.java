@@ -40,7 +40,7 @@ public class ClientApp {
 		}
 		//close the session and Session Factory
 		HibernateUtil.closeSession(ses);
-		\HibernateUtil.closeSessionFactory();
+		HibernateUtil.closeSessionFactory();
 		System.out.print("\n\t\t ==PROGRAMME BY PRATIK DIMBLE==\n\n\n");
 
 		
